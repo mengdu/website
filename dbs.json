@@ -1,5 +1,18 @@
 [
   {
+    "title": "wepy - 一个小程序的组件化开发框架",
+    "abstrast": "小程序框架wepy文档",
+    "info": {
+      "time": "2017-7-11",
+      "label": ["微信小程序", "js", "wepy"],
+      "tag": "编程",
+      "type": "md",
+      "cover": "imgs/wx.png",
+      "url": "dbs/wepy.md"
+    },
+    "show": "big"
+  },
+  {
     "title": "[log.js]一个node端带文件路径和颜色的console.log",
     "abstrast": "log.js 调试函数可以显示当前的文件路径及行号",
     "info": {
@@ -7,7 +20,7 @@
       "label": ["node", "js", "调试"],
       "tag": "编程",
       "type": "md",
-      "cover": "https://segmentfault.com/img/remote/1460000010011409",
+      "cover": "https://raw.githubusercontent.com/mengdu/log.js/master/imgs/20170701212625.png",
       "url": "dbs/marked.md"
     },
     "show": "big"
