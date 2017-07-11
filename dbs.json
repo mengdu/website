@@ -37,6 +37,19 @@
     }
   },
   {
+    "title": "git 小书",
+    "abstrast": "git 小书是一个测试小程序",
+    "info": {
+      "time": "2017-7-11",
+      "label": ["测试", "git", "调试"],
+      "tag": "编程",
+      "type": "md",
+      "cover": "imgs/logo.png",
+      "url": "dbs/marked.md"
+    },
+    "show": "mini"
+  },
+  {
     "title": "从小目标开始，编写一个简洁的二维码chrome扩展",
     "abstrast": "编写一个二维码插件",
     "info": {
