@@ -21,7 +21,7 @@
       "tag": "编程",
       "type": "md",
       "cover": "https://raw.githubusercontent.com/mengdu/log.js/master/imgs/20170701212625.png",
-      "url": "dbs/marked.md"
+      "url": "dbs/log.md"
     },
     "show": "big"
   },
@@ -58,6 +58,28 @@
       "tag": "编程",
       "type": "md",
       "url": "dbs/chrome-extension-demo.md"
+    }
+  },
+  {
+    "title": "this is a test",
+    "abstrast": "用于在小程序中渲染Markdown文本。",
+    "info": {
+      "time": "2017-7-12",
+      "label": ["chrome-extension", "浏览器插件"],
+      "tag": "编程",
+      "type": "md",
+      "url": "dbs/test.md"
+    }
+  },
+  {
+    "title": "wemark - 微信小程序Markdown渲染库",
+    "abstrast": "用于在小程序中渲染Markdown文本。",
+    "info": {
+      "time": "2017-7-12",
+      "label": ["chrome-extension", "浏览器插件"],
+      "tag": "编程",
+      "type": "md",
+      "url": "dbs/wemark.md"
     }
   }
 ]
